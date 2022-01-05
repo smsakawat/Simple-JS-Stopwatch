@@ -4,6 +4,13 @@
   font-family: cursive;
 }
 
+.title {
+  color: #fff;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: bold;
+  margin-top: -100px;
+}
 .container {
   background-color: #222242;
   height: 100vh;
@@ -21,7 +28,7 @@
   color: #ffffff;
   z-index: 9999;
   font-size: 48px;
-  margin-bottom: 120px;
+  margin-bottom: 150px;
 }
 .watch p::before {
   content: "";
